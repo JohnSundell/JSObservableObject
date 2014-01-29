@@ -1,3 +1,8 @@
+//
+//  JSObservableObject
+//  Copyright (c) John Sundell 2014
+//
+
 #import "JSObservableObject.h"
 
 @interface JSObservableObject()

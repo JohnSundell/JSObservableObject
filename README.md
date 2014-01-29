@@ -26,6 +26,8 @@ JSObservableObject
 
 JSObservableObjectInterface(MyClass, MyClassObserver)
 
+// Your class' public API methods here
+
 @end
 ```
 
